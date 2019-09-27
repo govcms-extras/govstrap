@@ -1,0 +1,12 @@
+name: govstrap
+type: theme
+description: 'A GovCMS light weight bootstrap base theme.'
+package: govstrap
+core: 8.x
+libraries:
+  - govstrap/global-styling
+ 
+base theme: false
+
+regions:
+  content: Content

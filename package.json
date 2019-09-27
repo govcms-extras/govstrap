@@ -1,0 +1,9 @@
+{
+  "name": "govstrap",
+  "version": "1.0.0",
+  "description": "a GovCMS light weight bootstrap base theme.",
+  "main": "index.js",
+  "author": "Pandaski <pandaski@outlook.com.au>",
+  "license": "MIT",
+  "private": true
+}
